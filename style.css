@@ -10,7 +10,7 @@ body {
   align-items: center;
   justify-content: center;
   color: #555;
-  background-color: #ecf0f3;
+  background-image: url(images/bk.jpg);
 }
 .login-form {
   width: 400px;
